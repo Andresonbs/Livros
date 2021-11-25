@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832158172867",
+    "project_id": "livros-ed8de",
+    "storage_bucket": "livros-ed8de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832158172867:android:a1e115639991265f6b4476",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.livros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832158172867-3mfeq33sagmv7oufq8m2gshng6bujap9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsp.livros",
+            "certificate_hash": "bb48c315037e5d956c16bf03debb2f24e0a97be3"
+          }
+        },
+        {
+          "client_id": "832158172867-eknt9givluih6v5e2qvsnpbf1qegdl2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHm_PoSTqzetWmwj3HJoJsIeLtGVsyXMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832158172867-eknt9givluih6v5e2qvsnpbf1qegdl2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
